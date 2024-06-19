@@ -84,7 +84,7 @@ body{
     justify-content: space-around;
     padding: 0 0.8rem;
 
-    transform: rotateY(-200deg) rotateX(20deg);
+    transform: rotateY(-218deg) rotateX(20deg);
     position: absolute;
 }
 .frames img{
